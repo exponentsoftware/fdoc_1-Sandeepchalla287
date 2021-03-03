@@ -3,7 +3,6 @@ function reverseArray(array) {
     while (array.length) {
       arr.push(array.pop());
     };
-  
     return arr;
   };
   
